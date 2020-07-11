@@ -1,0 +1,26 @@
+Flask==0.12.2
+cf-deployment-tracker==1.0.4
+
+
+dash
+dash.dependencies
+dash_core_components as dcc
+dash_html_components as html
+plotly
+random
+plotly.graph_objs as go
+pandas as pd
+datetime as dt
+dash_bootstrap_components as dbc
+
+nltk
+nltk.corpus 
+nltk.tokenize 
+wordcloud 
+matplotlib.pyplot as plt
+
+io 
+base64
+cloudant 
+cloudant.client
+cloudant.result 
